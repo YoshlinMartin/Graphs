@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Graphs</string>
+    <string name="enter_value">Enter value</string>
+    <string name="add_bar_value">Add Bar Value</string>
+    <string name="enter_label">Enter label</string>
+    <string name="enter_value_pie">Enter value</string>
+    <string name="add_pie_value">Add Pie Value</string>
+    <string name="pie_chart">Pie Chart</string>
+    <string name="enter_label_bar">Enter label</string>
+</resources>
